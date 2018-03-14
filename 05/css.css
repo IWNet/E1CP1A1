@@ -1,0 +1,8 @@
+/* Centramos todo el texto que este dentro del body */
+body {
+	text-align: center;
+}
+/* le damos color al texto de la etiqueta h1 */
+h1 {
+	color:green;
+}
